@@ -1,0 +1,12 @@
+html {
+  text-align: center;
+  font-family: "Roboto";
+  background: #424242;
+  color: #ffffff;
+}
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+
+a {
+  color: #1565C0;
+}
