@@ -6,7 +6,10 @@ html {
 }
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 
+.gh_code {
+  background-color: #eee;
+  border-radius: 5px;
+}
+
 
 a {
-  color: #1565C0;
-}
